@@ -1,6 +1,6 @@
-
+﻿
 % TurboWieszcz ++ MATLAB/Octave version, v1.0
-% (c)2018 Noniewicz.com, Jakub Noniewicz
+% (c)2018-2022 Noniewicz.com, Jakub Noniewicz
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % based directly on (translated from): my previous version written in Python
 % which was based on ?
@@ -18,6 +18,7 @@
 % updated: 20180204 1620-1735 = 1h15m
 % updated: 20180208 0040-0100 = 20m
 % updated: 20180411 1905-1915 = 10m
+% updated: 20220513 1130-1131 = 1m
 
 %TODO:
 %- pl
@@ -147,7 +148,7 @@ function sl=_build_line(z, w, w0, number, ending)
     'Gdy nie każdego stać na browary',
     'Pożarł Hilary swe okulary',
     'Spowiły nas trujące opary',
-    'To nie jest calka ani logarytm'},
+    'To nie jest całka ani logarytm'},
 { %//po 8
     'Już na arenę krew tryska',
     'Już piana cieknie im z pyska',
