@@ -1,10 +1,9 @@
 ﻿
-% TurboWieszcz ++ MATLAB/Octave version, v1.0
+% TurboWieszcz ++ MATLAB/Octave version, v2.0
 % (c)2018-2022 Noniewicz.com, Jakub Noniewicz
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % based directly on (translated from): my previous version written in Python
-% which was based on ?
-% 
+% which was based on my previous version written in Delphi
 % which was based on:
 % idea presented in "Magazyn Amiga" magazine by Marek Pampuch.
 % also inspired by version written for iPhone by Tomek (Grych) Gryszkiewicz.
@@ -19,9 +18,10 @@
 % updated: 20180208 0040-0100 = 20m
 % updated: 20180411 1905-1915 = 10m
 % updated: 20220513 1130-1131 = 1m
+% updated: 20220904 1745-1747 = 2m
 
 %TODO:
-%- pl
+%- pl proper
 %- pass vars
 %- chk params
 %- [!] finish code
